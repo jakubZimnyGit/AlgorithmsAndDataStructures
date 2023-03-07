@@ -6,11 +6,11 @@ Zaproponuj pseudokod algorytmu rozwiązującego problem π3 tj. problem weryfika
 
 
 
-function (bool) IsXInTheTable(int[] table, x)
+function (bool) IsXInTheArray(int[] Array, x)
 {
         If table contains x then
-                return True (yes there is x in the table)
+                return True (yes there is x in the Array)
 
 
-otherwise return false (no there is no x in the table)
+otherwise return false (no there is no x in the Array)
 }
