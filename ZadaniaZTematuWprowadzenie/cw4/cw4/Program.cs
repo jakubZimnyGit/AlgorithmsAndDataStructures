@@ -10,6 +10,15 @@ namespace cw4
     {
         static void Main(string[] args)
         {
+
+        }
+        static bool IsThereAnXInTheTable(int[] tablica, int x)
+        {
+            if(tablica.Contains(x))
+            {
+                return true;
+            }
+            return false;
         }
     }
 }

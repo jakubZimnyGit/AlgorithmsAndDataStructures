@@ -1,0 +1,16 @@
+﻿Problem π3 (Pseudokod)
+
+
+Zaproponuj pseudokod algorytmu rozwiązującego problem π3 tj. problem weryfikacji czy w nieuporządkowanym zbiorze liczb znajduje się zadana liczba
+
+
+
+
+function (bool) IsXInTheTable(int[] table, x)
+{
+        If table contains x then
+                return True (yes there is x in the table)
+
+
+otherwise return false (no there is no x in the table)
+}
